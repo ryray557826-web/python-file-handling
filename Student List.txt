@@ -1,0 +1,3 @@
+Student Name: Rain, ID: 12345, Course: BSIT
+Student Name: Rain, ID: 23414, Course: BSIT
+Student Name: Arth, ID: 12312, Course: BSCS
